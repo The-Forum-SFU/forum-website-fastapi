@@ -1,4 +1,4 @@
-# Forum API Server (FastAPI)
+# Forum API Server (FastAPI) (Deprecated, No longer in use)
 
 A lightweight, efficient FastAPI server for managing email subscriptions for The Forum University.
 
